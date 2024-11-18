@@ -1,4 +1,4 @@
-# My First React Journey! 🚀
+# First React Journey! 🚀
 
 Hey there! Welcome to my React application project. This was my first deep dive into React, and wow, what a learning experience! Let me share what I learned while building this.
 
